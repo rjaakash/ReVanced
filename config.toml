@@ -5,8 +5,6 @@ cli-source = "revanced/revanced-cli"
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "'Announcements'"
-included-patches = "'Change header'"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
 [Music]
